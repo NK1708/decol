@@ -1,0 +1,1311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GlotPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-23 15:41+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Amaury Balmer <amaury@balmer.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk\n"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/install.php:15
+msgid "You already have the latest version, no need to upgrade!"
+msgstr "Vous avez déjà la dernière version, pas besoin de mettre à jour !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/install.php:20
+msgid "GlotPress was successully upgraded!"
+msgstr "GlotPress a été mis à jour avec succès !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/install.php:23
+msgid "GlotPress was successully installed!"
+msgstr "GlotPress a été installé avec succès !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/cli.php:49
+msgid "Project not found!"
+msgstr "Projet introuvable !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/cli.php:52
+msgid "Locale not found!"
+msgstr "La locate est introuvable !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/cli.php:57
+msgid "Translation set not found!"
+msgstr "Aucun jeu de traduction ne correspond&nbsp;!"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:58
+msgid "Sample"
+msgstr "Exemple"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:58
+msgid "sample"
+msgstr "exemple"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:58
+msgid "A Sample Project"
+msgstr "Un projet d'exemple"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:59
+msgid "GlotPress FTW"
+msgstr "GlotPress FTW"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:59
+msgid "FTW means For The Win"
+msgstr "FTW means For The Win"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:60
+msgid "A GlotPress"
+msgstr "GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:60
+msgid "Many GlotPresses"
+msgstr "Many GlotPresses"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:62
+msgid "My Translation"
+msgstr "Ma traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/install-upgrade.php:62
+msgid "my"
+msgstr "mon"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/route.php:94
+msgid "You are not allowed to do that!"
+msgstr "Vous n'êtes pas autorisé à faire cela !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/route.php:187
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template.php:61
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:36
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:80
+msgid "Edit"
+msgstr "Modifier"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:49
+msgid "Delete"
+msgstr "Effacer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:59
+msgid "Home"
+msgstr "Accueil"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:59
+msgid "Home Is Where The Heart Is"
+msgstr "Où se trouve le Cœur, là est la maison."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:68
+msgid "Login"
+msgstr "Connexion"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template-links.php:68
+msgid "Sign into GlotPress"
+msgstr "Se connecter à GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template.php:75
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template.php:200
+msgid "&mdash; Locale &mdash;"
+msgstr "&mdash; Locale &mdash;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/template.php:216
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; Pas de parent &mdash;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/validation.php:56
+msgid "Non-existent validator: "
+msgstr "Validateur inexistant :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/validation.php:83
+#, php-format
+msgid "The field <strong>%s</strong> has invalid value!"
+msgstr "Le champ <strong>%s</strong> contient une valeur invalide !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:74
+msgid "Lenghts of source and translation differ too much."
+msgstr "La taille entre la chaine originale et la traduction diffère trop."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:85
+msgid "Missing tags from translation."
+msgstr "Il manque des tas depuis la traduction."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:88
+msgid "Too many tags in translation."
+msgstr "Trop de tags dans cette traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:120
+#, php-format
+msgid "Missing %s placeholder in translation."
+msgstr "Un marqueur %s manquant dans la traduction."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:123
+#, php-format
+msgid "Extra %s placeholder in translation."
+msgstr "Un marqueur %s supplémentaire dans la traduction."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:140
+msgid "Original and translation should both end on newline."
+msgstr "La chaine originale et la traduction doivent tous les deux finir par un saut de ligne."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/warnings.php:143
+msgid "Original and translation should both begin on newline."
+msgstr "La chaine originale et la traduction doivent tous les deux commencer par un saut de ligne."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:317
+msgid "Passed variable is not a BackPress database object."
+msgstr "La variable passée n'est pas un objet de base de données de BackPress."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:321
+msgid "No schema available."
+msgstr "Aucun schéma n'est disponible."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:387
+msgid "Creating table"
+msgstr "Création de la table"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:416
+#, php-format
+msgid "Adding column: %s"
+msgstr "Ajout de la colonne&nbsp;: %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:434
+#, php-format
+msgid "Setting default on column: %s"
+msgstr "Paramètre par défaut sur la colonne : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:449
+#, php-format
+msgid "Changing column: %s"
+msgstr "Modification de la colonne&nbsp;: %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:491
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:514
+#, php-format
+msgid "Adding index: %s"
+msgstr "Ajout de l'index&nbsp;: %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:507
+#, php-format
+msgid "Dropping index: %s"
+msgstr "Suppression de l'index&nbsp;: %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:535
+msgid "Inserting data"
+msgstr "Insertion des données"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:548
+msgid "Updating data"
+msgstr "Mise à jour des données"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:566
+#, php-format
+msgid "Modifying database: %s (%s)"
+msgstr "Edition de la base de données&nbsp;: %s (%s)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:570
+#, php-format
+msgid "Table: %s"
+msgstr "Table&nbsp;: %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:582
+msgid "Skipped"
+msgstr "Sauté"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:594
+msgid "SQL ERROR! See the error log for more detail"
+msgstr "Erreur SQL ! Afficher l'historique des erreurs pour plus de détails"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:595
+msgid "SQL ERROR!"
+msgstr "Erreur SQL!"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:596
+#, php-format
+msgid "Database: %s (%s)"
+msgstr "Base de données : %s (%s)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.bp-sql-schema-parser.php:600
+msgid "Done"
+msgstr "Terminé"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:723
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:1341
+msgid "Too many redirects."
+msgstr "Trop de redirections."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:803
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:930
+#, php-format
+msgid "Malformed URL: %s"
+msgstr "URL malformé : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:814
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-http.php:987
+#, php-format
+msgid "Could not open handle for fopen() to %s"
+msgstr "Impossible d&rsquo;ouvrir le gestionnaire de fopen() pour %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:226
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:299
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:408
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:586
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1171
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1405
+msgid "Invalid Taxonomy"
+msgstr "Taxinomie invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:294
+msgid "Empty Term"
+msgstr "Le terme est vide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1305
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1554
+msgid "Invalid taxonomy"
+msgstr "La taxinomie est invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1308
+msgid "Invalid term ID"
+msgstr "l&rsquo;ID du terme est invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1311
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1577
+msgid "A name is required for this term"
+msgstr "Un nom est requis pour ce terme"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1342
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1349
+msgid "Could not insert term into the database"
+msgstr "Impossible d&rsquo;insérer le terme dans la base de données"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:1605
+#, php-format
+msgid "The slug &#8220;%s&#8221; is already in use by another term"
+msgstr "L&rsquo;identifiant « %s » est déjà utilisé par un autre terme"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-taxonomy.php:2047
+msgid "Invalid object ID"
+msgstr "Identifiant d&rsquo;objet invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:51
+msgid "Invalid login name"
+msgstr "Identifiant invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:53
+msgid "Name already exists"
+msgstr "Le nom existe déjà"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:58
+msgid "Invalid nicename"
+msgstr "Nom optimisé invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:60
+msgid "Nicename already exists"
+msgstr "Le nom optimisé existe déjà"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:65
+msgid "Invalid email address"
+msgstr "Adresse email invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:70
+msgid "Email already exists"
+msgstr "L&#8217;adresse e-mail existe déjà"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:90
+msgid "Invalid registration time"
+msgstr "Heure d&#8217;inscription invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:93
+msgid "Invalid registration timestamp"
+msgstr "Heure d&#8217;inscription invalide"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:110
+msgid "Query failed"
+msgstr "La requête a échouée"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:298
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:344
+msgid "Multiple email matches.  Log in with your username."
+msgstr "Plusieurs emails ont été trouvé. Connectez-vous avec votre identifiant."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:300
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/class.wp-users.php:346
+#, php-format
+msgid "Multiple %s matches"
+msgstr "Recherche multiple %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.core.php:957
+msgid "Select a city"
+msgstr "Sélectionnez une ville"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.core.php:972
+msgid "Manual offsets"
+msgstr "Décallages manuels"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.core.php:985
+#, php-format
+msgid "UTC %s"
+msgstr "UTC %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.core.php:1140
+msgid "BackPress &rsaquo; Error"
+msgstr "BackPress &rsaquo; Erreur"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.formatting.php:49
+msgid "&#8220;"
+msgstr "&#8220;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.formatting.php:51
+msgid "&#8221;"
+msgstr "&#8221;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.wp-cron.php:304
+msgid "Once Hourly"
+msgstr "Une fois par heure"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.wp-cron.php:305
+msgid "Twice Daily"
+msgstr "Deux fois par jour"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/functions.wp-cron.php:306
+msgid "Once Daily"
+msgstr "Une fois par jour"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/pomo/sample/app.php:56
+#, php-format
+msgid "Welcome %s!"
+msgstr "Bienvenue %s !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "Une chaine de caractère avec une priorité faible !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/backpress/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "Au revoir \n"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/formats/format_android.php:46
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/formats/format_rrc.php:56
+#, php-format
+msgid "Missing context %s in project #%d"
+msgstr "Il manque le marqueur %s dans le projet #%d"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/login.php:17
+msgid "Invalid username!"
+msgstr "Identifiant invalide !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/login.php:26
+#, php-format
+msgid "Welcome, %s!"
+msgstr "Bienvenue, %s !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/login.php:30
+msgid "Invalid password!"
+msgstr "Mot de passe invalide !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:5
+msgid "Projects"
+msgstr "Projets"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:24
+#, php-format
+msgid "%s project "
+msgstr "%s projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:59
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:22
+msgid "No such format."
+msgstr "Aucun format."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:66
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:27
+msgid "Error uploading the file."
+msgstr "Erreur lors de l'envoi du fichier."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:72
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:33
+msgid "Couldn&#8217;t load translations from file!"
+msgstr "Impossible de charger les traductions depuis le fichier !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:76
+#, php-format
+msgid "%s new strings were added, %s existing were updated."
+msgstr "%s nouvelles chaines ont été ajoutées, %s chaines existantes ont été mises à jour."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:96
+msgid "The project cannot be parent of itself!"
+msgstr "Le projet ne peut pas être parent de lui même !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:98
+msgid "The project was saved."
+msgstr "Le projet a été enregistré."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:100
+msgid "Error in saving project!"
+msgstr "Erreur lors de l'enregistrement du projet !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:114
+msgid "The project was deleted."
+msgstr "Le projet a été effacé."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:116
+msgid "Error in deleting project!"
+msgstr "Erreur dans la suppression du projet !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:137
+msgid "Error in creating project!"
+msgstr "Erreur dans la création du projet !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:140
+msgid "The project was created!"
+msgstr "Le projet a été créé !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:176
+msgid "User wasn&#8217;t found!"
+msgstr "L'utilisateur est introuvable !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:189
+msgid "Validator was added."
+msgstr "Modérateur ajouté."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:189
+msgid "Error in adding validator."
+msgstr "Erreur lors de l'ajout du modérateur."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:201
+msgid "Permission was deleted."
+msgstr "La permission a été effacée."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:203
+msgid "Error in deleting permission!"
+msgstr "Erreur dans la suppression de la permission !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:206
+msgid "Permission wasn&#8217;t found!"
+msgstr "La permission est introuvable !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:224
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:248
+msgid "Project wasn&#8217;found"
+msgstr "Projet introuvable"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:230
+#, php-format
+msgid "Couldn&#8217;t add translation set named %s"
+msgstr "Impossible d'ajouter le jeu de traduction nommé %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:235
+#, php-format
+msgid "Couldn&#8217;t delete translation set named %s"
+msgstr "Impossible d'effacer le jeu de traduction nommé %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/project.php:238
+msgid "Translation sets were added and removed successfully"
+msgstr "Les jeux de traduction ont été ajouté et supprimé avec succès"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation-set.php:18
+msgid "Error in creating translation set!"
+msgstr "Erreur lors de la création du jeu de traduction !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation-set.php:21
+msgid "The translation set was created!"
+msgstr "Le jeu de traduction a été créé !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation-set.php:50
+msgid "Error in updating translation set!"
+msgstr "Erreur lors de la mise à jour du jeu de traduction !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation-set.php:55
+msgid "The translation set was updated!"
+msgstr "Le jeu de traduction a été mis à jour !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:38
+#, php-format
+msgid "%s translations were added"
+msgstr "%s traductions ont été ajoutés"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:248
+#, php-format
+msgid "Added: %d."
+msgstr "Ajoutée : %d."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:249
+#, php-format
+msgid "Error from Google Translate: %d."
+msgstr "Erreur depuis Google Traduction : %d."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:250
+#, php-format
+msgid "Error adding: %d."
+msgstr "Erreur lors de l'ajout : %d."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:251
+#, php-format
+msgid "Skipped: %d."
+msgstr "Sauté : %d."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/routes/translation.php:254
+#, php-format
+msgid "%d fuzzy translation from Google Translate were added."
+msgstr "%d traductions approximatives depuis Google Traduction ont été ajoutées."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-includes/things/translation-set.php:159
+#, php-format
+msgid "%d%%"
+msgstr "%d%%"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/404.php:2
+msgid "Not Found &lt; GlotPress"
+msgstr "Introuvable &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/404.php:5
+msgid "Not found"
+msgstr "Introuvable"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/footer.php:2
+#, php-format
+msgid "Proudly powered by <a href=\"%s\" title=\"Found in translation\">GlotPress</a>."
+msgstr "Propulsé fièrement par <a href=\"%s\" title=\"Trouver dans la traduction\">GlotPress</a>."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/header.php:17
+msgid "GlotPress logo"
+msgstr "Logo GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/header.php:25
+#, php-format
+msgid "Hi, %s."
+msgstr "Salut, %s."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/header.php:27
+msgid "Log out"
+msgstr "Déconnexion"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/header.php:29
+msgid "Log in"
+msgstr "Connexion"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:3
+msgid "New line"
+msgstr "Nouvelle ligne"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:4
+msgid "Tab character"
+msgstr "Caractère TAB (tabulation)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:19
+#, php-format
+msgid "<strong>Warning:</strong> %s"
+msgstr "<strong>Avertissement:</strong> %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:22
+msgid "Discard"
+msgstr "Annuler"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:30
+msgid "Copy from original"
+msgstr "Copier depuis l'original"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:31
+msgid "Translation from Google"
+msgstr "Traduction depuis Google"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:35
+#, php-format
+msgid "You <a href=\"%s\">have to log in</a> to edit this translation."
+msgstr "Vous devez vous <a href=\"%s\">connecter</a> pour modifier cette traduction."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/helper-functions.php:57
+msgid "References:"
+msgstr "Références :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:2
+msgid "Install &lt; GlotPress"
+msgstr "Installation &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:4
+msgid "Install"
+msgstr "Installer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:4
+msgid "Upgrade"
+msgstr "Mettre à jour"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:11
+msgid "There were some errors:"
+msgstr "Il y a plusieurs erreurs :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:25
+msgid "Please add this to your <code>.htaccess</code> file:"
+msgstr "Merci d'ajouter le code suivant dans le fichier <code>.htaccess</code> :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/install.php:37
+msgid "<strong>The default username is <code>admin</code>, whose password is simply <code>a</code>.</strong>"
+msgstr "<strong>L'utilisateur par défaut est <code>admin</code>, et le mot de passe est tout simplement <code>a</code>.</strong>"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/login.php:2
+#, php-format
+msgid "%s &lt; GlotPress"
+msgstr "%s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/login.php:12
+msgid "Username"
+msgstr "Identifiant"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/login.php:15
+msgid "Password"
+msgstr "Mot de passe"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-edit.php:2
+#, php-format
+msgid "Edit Project %s &lt; GlotPress"
+msgstr "Modifier le projet %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-edit.php:6
+#, php-format
+msgid "Edit project \"%s\""
+msgstr "Modifier le projet \"%s\""
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-edit.php:10
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-edit.php:13
+msgid "Save"
+msgstr "Enregistrer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:2
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-form.php:8
+msgid "Name"
+msgstr "Nom"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:6
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-form.php:12
+msgid "Slug"
+msgstr "Identifiant"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:9
+msgid "If you leave the slug empty, it will be derived from the name."
+msgstr "Si vous laissez le champ identifiant vide, celui-çi sera généré à partir du nom."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:12
+msgid "Description"
+msgstr "Description"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:15
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:32
+msgid "Source file URL"
+msgstr "Adresse du fichier source"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:18
+msgid "Public URL to a source file in the project. You can use <code>%file%</code> and <code>%line%</code>. Ex. <code>http://trac.example.org/browser/%file%#L%line%</code>"
+msgstr "L'adresse publique vers les fichiers sources du projet. Vous pouvez utiliser les variables <code>%file%</code> et code>%line%</code>. Ex. <code>http://trac.example.org/browser/%file%#L%line%</code>"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:21
+msgid "Parent Project"
+msgstr "Projet parent"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-form.php:24
+msgid "Active"
+msgstr "Activer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:3
+#, php-format
+msgid "Import Originals &lt; %s &lt; GlotPress"
+msgstr "Importer l'original &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:4
+#, php-format
+msgid "Import Translations &lt; %s &lt; GlotPress"
+msgstr "Importer des traductions &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:8
+msgid "Import Originals"
+msgstr "Importer l'original"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:8
+msgid "Import Translations"
+msgstr "Importer des traductions"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:11
+msgid "Import File:"
+msgstr "Importer le fichier :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:17
+msgid "Format:"
+msgstr "Format :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-import.php:19
+msgid "Import"
+msgstr "Importer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:2
+#, php-format
+msgid "Mass-create Translation Sets &lt; %s &lt; GlotPress"
+msgstr "Créer des jeux de traduction &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:7
+msgid "Loading translation sets to create&hellip;"
+msgstr "Chargement du jeu de traduction à créer&hellip;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:11
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:25
+msgid "Mass-create Translation Sets"
+msgstr "Créer plusieurs jeux de traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:12
+msgid ""
+"Here you can mass-create translation sets in this project.\n"
+"The list of translation sets will be mirrored with the sets of a project you choose.\n"
+"Usually this is one of the parent projects."
+msgstr ""
+"Ici, vous pouvez créer plusieurs jeux de traduction dans ce projet. \n"
+"La liste de jeux de traduction sera dupliqués avec les jeux du projet que vous choisissez.\n"
+"Habituellement, ceci est le premier des projets parents."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:17
+msgid "Project to take translation sets from:"
+msgstr "Prendre le jeu de traduction du projet depuis :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-mass-create-sets.php:21
+msgid "Create Translation Sets"
+msgstr "Créer des nouveaux jeux de traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-new.php:2
+msgid "Create New Project &lt; GlotPress"
+msgstr "Créer un nouveau projet &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-new.php:4
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-new.php:8
+msgid "Create New Project"
+msgstr "Créer le nouveau projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-new.php:12
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-new.php:10
+msgid "Create"
+msgstr "Créer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:2
+#, php-format
+msgid "Permissions &lt; %s &lt; GlotPress"
+msgstr "Permissions &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:6
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:22
+msgid "Permissions"
+msgstr "Permissions"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:8
+msgid "Validators"
+msgstr "Modérateurs"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:15
+msgid "Validators for this project"
+msgstr "Modérateurs pour ce projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:20
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:36
+msgid "user"
+msgstr "utilisateur"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:26
+msgid "Remove"
+msgstr "Supprimer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:32
+msgid "Validators for parent projects"
+msgstr "Modérateurs pour les projets parents"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:49
+msgid "No validators defined for this project."
+msgstr "Aucun modérateur défini pour ce projet."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:52
+msgid "Add a validator for this project"
+msgstr "Ajouter un modérateur pour ce projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:54
+msgid "Username:"
+msgstr "Identifiant&nbsp;:"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:56
+msgid "Locale:"
+msgstr "Locale :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:58
+msgid "Translation set slug:"
+msgstr "Identifiant du jeu de traduction :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project-permissions.php:62
+msgid "Add"
+msgstr "Ajouter"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:18
+msgid "Project actions &darr;"
+msgstr "Options du projet &darr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:21
+msgid "Import originals"
+msgstr "Importer l'original"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:23
+msgid "New Sub-Project"
+msgstr "Créer un nouveau sous-projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:24
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-new.php:3
+msgid "New Translation Set"
+msgstr "Créer un nouveau jeu de traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:28
+msgid "Personal project options &darr;"
+msgstr "Options personnelles du projet &darr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:35
+msgid "URL to a source file in the project. You can use <code>%file%</code> and <code>%line%</code>. Ex. <code>http://trac.example.org/browser/%file%#L%line%</code>"
+msgstr "L'adresse vers les fichiers sources du projet. Vous pouvez utiliser les variables <code>%file%</code> et code>%line%</code>. Ex. <code>http://trac.example.org/browser/%file%#L%line%</code>"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:39
+msgid "Save &rarr;"
+msgstr "Enregistrer &rarr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:40
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:168
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:54
+msgid "Sub-projects"
+msgstr "Sous-projets"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:76
+msgid "Language"
+msgstr "Langue"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:77
+msgid "%"
+msgstr "%"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:78
+msgid "Translated"
+msgstr "Traduit"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:79
+msgid "Untranslated"
+msgstr "Non traduite"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:80
+msgid "Waiting"
+msgstr "En attente"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:81
+msgid "Extra"
+msgstr "Extra"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/project.php:109
+msgid "There are no translations of this project."
+msgstr "Il n'y a aucune traduction pour ce projet."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/projects.php:2
+msgid "Projects &lt; GlotPress"
+msgstr "Projets &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/projects.php:13
+msgid "Create a New Project"
+msgstr "Créer un nouveau projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/redirect.php:1
+#, php-format
+msgid "Redirecting to: %s..."
+msgstr "Redirection vers : %s..."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:22
+#, php-format
+msgid "Context: %s"
+msgstr "Contexte : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:28
+msgid "Double-click to add"
+msgstr "Double cliquer pour ajouter"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:28
+#, php-format
+msgid "You <a href=\"%s\">have to login</a> to add a translation."
+msgstr "Vous <a href=\"%s\">devez vous connecter</a> pour ajouter une traduction."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:49
+msgid "Details"
+msgstr "Détails"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:60
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:70
+#, php-format
+msgid "Singular: %s"
+msgstr "Singulier : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:63
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:72
+#, php-format
+msgid "Plural: %s"
+msgstr "Pluriel : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:76
+#, php-format
+msgid "This plural form is used for numbers like: %s"
+msgstr "Cette forme plurielle est utilisée pour les nombres comme : %s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:86
+msgid "Meta"
+msgstr "Méta"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:88
+msgid "Status:"
+msgstr "État&nbsp;:"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:104
+msgid "Priority:"
+msgstr "Priorité :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:111
+msgid "Context:"
+msgstr "Contexte :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:117
+msgid "Comment:"
+msgstr "Commentaire&nbsp;:"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:123
+msgid "Date added:"
+msgstr "Date d'ajout :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:129
+msgid "Translated by:"
+msgstr "Traduit par :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:137
+msgid "Priority of the original:"
+msgstr "Priorité de la chaine originale :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:165
+msgid "Add translation &rarr;"
+msgstr "Ajouter la traduction &rarr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-row.php:165
+msgid "Suggest new translation &rarr;"
+msgstr "Suggérer une nouvelle traduction &rarr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-edit.php:2
+#, php-format
+msgid "Edit Translation Set &lt; %s &lt; %s &lt; GlotPress"
+msgstr "Modifier le jeu de traduction &lt; %s &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-edit.php:9
+msgid "Edit Translation Set"
+msgstr "Modifier le jeu de traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-form.php:2
+msgid "Locale"
+msgstr "Locale"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-form.php:5
+msgid "Use as name"
+msgstr "Utilisé comme nom"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-form.php:15
+msgid "Project"
+msgstr "Projet"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-new.php:2
+msgid "Create New Translation Set &lt; GlotPress"
+msgstr "Créer un nouveau jeu de traduction &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translation-set-new.php:6
+msgid "Create New Translation Set"
+msgstr "Créer un nouveau jeu de traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:2
+#, php-format
+msgid "Translations &lt; %s &lt; %s &lt; GlotPress"
+msgstr "Traductions &lt; %s &lt; %s &lt; GlotPress"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:28
+msgid "Bulk &darr;"
+msgstr "Lot &darr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:30
+msgid "Filter &darr;"
+msgstr "Filtrer &darr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:31
+msgid "Sort &darr;"
+msgstr "Trier &darr;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:34
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:117
+msgid "All"
+msgstr "Tous"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:36
+msgid "random"
+msgstr "aléatoire"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:42
+msgid "Fuzzy"
+msgstr "Approximative"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:44
+msgid "Warnings"
+msgstr "Avertissements"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:54
+msgid "Term:"
+msgstr "Terme :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:55
+msgid "User:"
+msgstr "Identifiant&nbsp;:"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:61
+msgid "With translation:"
+msgstr "Avec traduction :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:65
+msgid "Yes"
+msgstr "Oui"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:66
+msgid "No"
+msgstr "Non"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:67
+msgid "Either"
+msgstr "N'importe"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:76
+msgid "Current/waiting/fuzzy"
+msgstr "Actuelle/En attente/Approximative"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:77
+msgid "Current only"
+msgstr "Actuellement seulement"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:78
+msgid "Approved, but obsoleted by another string"
+msgstr "Approuvé, mais remplacé par une autre chaine"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:79
+msgid "Waiting approval"
+msgstr "État d&rsquo;approbation"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:80
+msgid "Rejected"
+msgstr "Refusé"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:81
+msgid "Any"
+msgstr "N&rsquo;importe"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:86
+msgid "Filter"
+msgstr "Filtrer"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:89
+msgid "By:"
+msgstr "Par :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:93
+msgid "Date added (original)"
+msgstr "Date&nbsp;d&rsquo;ajout (original)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:94
+msgid "Date added (translation)"
+msgstr "Date&nbsp;d&rsquo;ajout (traduction)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:95
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:142
+msgid "Original string"
+msgstr "Chaîne originale"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:96
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:143
+msgid "Translation"
+msgstr "Traduction"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:97
+msgid "Priority"
+msgstr "Priorité"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:98
+msgid "Filename in source"
+msgstr "Nom du fichier dans le code source"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:99
+msgid "Random"
+msgstr "Au hasard"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:103
+msgid "How:"
+msgstr "Comment :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:107
+msgid "Ascending"
+msgstr "Croissant"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:108
+msgid "Descending"
+msgstr "Décroissant"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:112
+msgid "Sort"
+msgstr "Trier"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:115
+msgid "Select:"
+msgstr "Choisir :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:118
+msgid "None"
+msgstr "Aucun(e)"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:124
+msgid "Approve Selected"
+msgstr "Approuver la sélection"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:125
+msgid "Reject Selected"
+msgstr "Rejeter la sélection"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:129
+msgid "Translate via Google"
+msgstr "Traduire via Google"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:132
+msgid "<strong>Note:</strong>&nbsp;Bulk edit works only on the current page."
+msgstr "<strong>Note:</strong>&nbsp;L'édition par lot fonctionne uniquement sur cette page."
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:140
+msgid "&bull;"
+msgstr "&bull;"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:141
+msgid "Prio"
+msgstr "Prio"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:153
+msgid "No translations were found!"
+msgstr "Aucune traduction ne correspond&nbsp;!"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:159
+msgid "Legend:"
+msgstr "Légende :"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:168
+msgid "with warnings"
+msgstr "avec des avertisssements"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:176
+msgid "Import translations"
+msgstr "Importer des traductions"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:180
+msgid "Export"
+msgstr "Exporter"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:182
+msgid "all current"
+msgstr "tous les actuels"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:182
+msgid "only matching the filter"
+msgstr "seulement ceux qui correspondent au filtre"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/gp-templates/translations.php:185
+#, php-format
+msgid "%1$s %2$s as %3$s"
+msgstr "%1$s %2$s comme %3$s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/locales/locales.php:28
+#, php-format
+msgid "%1$s/%2$s"
+msgstr "%1$s/%2$s"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/scripts/import-originals.php:22
+msgid "Couldn't load translations from file!"
+msgstr "Impossible de charger les traductions depuis le fichier !"
+
+#: /Users/amaurybalmer/Desktop/SVN/Automattic/glotpress/trunk/scripts/recheck-warnings.php:13
+#, php-format
+msgid "Updating warnings for %s"
+msgstr "Mise à jour avec avertissement pour %s"
+
+#~ msgid "Edit project <q>%s</q>"
+#~ msgstr "Modifier le projet <q>%s</q>"
+
+#~ msgid "can include HTML"
+#~ msgstr "peut contenir du HTML"
+
+#~ msgid "Mass-create Project Sets in <q>%s</q>"
+#~ msgstr "Créer plusieurs sous projets dans <q>%s</q>"
+
+#~ msgid "can %s strings with locale"
+#~ msgstr "peut %s les chaines de la langue"
+
+#~ msgid "and slug"
+#~ msgstr "et l'identifiant"
+
+#~ msgid "in the project"
+#~ msgstr "dans le projet"
+
+#~ msgid "Add &rarr;"
+#~ msgstr "Ajouter &rarr;"
+
+#~ msgid "Translations:"
+#~ msgstr "Traductions :"
+
+#~ msgid "Reject"
+#~ msgstr "Rejeter"
+
+#~ msgid "Permanent link to this translation"
+#~ msgstr "Lien permanent vers cette traduction"
+
+#~ msgid "all"
+#~ msgstr "tous"
+
+#~ msgid "filtered only"
+#~ msgstr "seulement filtré"
+
+#~ msgid "No slug match for %s."
+#~ msgstr "Aucun identifiant ne correspond pas à %s."
+
+#~ msgid "No parent"
+#~ msgstr "Aucun (pas de projet parent)"
+
+#~ msgid "MO file"
+#~ msgstr "Fichier MO"
+
+#~ msgid "PO/POT file"
+#~ msgstr "Fichier PO/POT"
+
+#~ msgid "this page"
+#~ msgstr "cette page"
+
+#~ msgid "Error importing from POT file!"
+#~ msgstr "Erreur lors de l'importation du fichier POT !"
+
+#~ msgid "Random Untranslated"
+#~ msgstr "Non traduite aléatoire"
+
+#~ msgid "Approve:"
+#~ msgstr "Approuver :"
+
+#~ msgid "Selected"
+#~ msgstr "Sélectionné"
+
+#~ msgid "Reject:"
+#~ msgstr "Rejeter :"
+
+#~ msgid "Export as PO file"
+#~ msgstr "Exporter le fichier PO"

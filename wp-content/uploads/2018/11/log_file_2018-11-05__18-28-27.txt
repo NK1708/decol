@@ -1,0 +1,101 @@
+
+---Downloaded files---
+The import files for: Patron Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://dekol.milira.net
+Data file = /home/jumpers/milira.net/dekol/wp-content/themes/patron//inc/demos/default/content.xml
+Widget file = /home/jumpers/milira.net/dekol/wp-content/themes/patron//inc/demos/default/widget.wie
+Customizer file = /home/jumpers/milira.net/dekol/wp-content/themes/patron//inc/demos/default/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-02-20__17-20-04" (Медиафайлы)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Рубрики - No Title - Imported
+Архивы - No Title - Widget already exists
+Свежие записи - Latest News - Imported
+Облако меток - Tags - Imported
+
+Service Sidebar : 
+
+Title Widget - Brochure - Imported
+Download Button - Brochure - Imported
+Download Button - No Title - Imported
+Text Block - Reguest For Quote - Imported
+
+Shop Sidebar : 
+
+Поиск товаров - No Title - Imported
+Категории товаров - Product categories - Imported
+Фильтрация товаров по цене - Filter by price - Imported
+Товары по рейтингу - Top rated products - Imported
+Недавно просмотренные товары - Recently Viewed - Imported
+
+Footer First Widget Area : 
+
+Текст - No Title - Imported
+
+Footer Second Widget Area : 
+
+Свежие записи - Latest News - Imported
+
+Footer Third Widget Area : 
+
+Newsletter Subscribe - Newsletter - Imported
+media_widget - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
